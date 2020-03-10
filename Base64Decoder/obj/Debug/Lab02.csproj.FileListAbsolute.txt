@@ -1,0 +1,12 @@
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\bin\Debug\Base64Decoder.exe.config
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\bin\Debug\Base64Decoder.exe.manifest
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\bin\Debug\Base64Decoder.application
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\bin\Debug\Base64Decoder.exe
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\bin\Debug\Base64Decoder.pdb
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Base64Decoder.TrustInfo.xml
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Base64Decoder.exe.manifest
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Base64Decoder.application
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Base64Decoder.exe
+C:\Users\Raffaele-Portatile\source\repos\Base64Decoder\Base64Decode\obj\Debug\Base64Decoder.pdb

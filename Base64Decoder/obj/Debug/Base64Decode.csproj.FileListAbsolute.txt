@@ -1,0 +1,12 @@
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\bin\Debug\Base64Decode.exe.config
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\bin\Debug\Base64Decode.exe.manifest
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\bin\Debug\Base64Decode.application
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\bin\Debug\Base64Decode.exe
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\bin\Debug\Base64Decode.pdb
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.csprojAssemblyReference.cache
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.csproj.CoreCompileInputs.cache
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.TrustInfo.xml
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.exe.manifest
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.application
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.exe
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Decode\Base64Decode\obj\Debug\Base64Decode.pdb
